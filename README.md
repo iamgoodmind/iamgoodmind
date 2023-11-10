@@ -1,7 +1,7 @@
 <h1> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Suman, Computer Science & Engineering Student From INDIA  </p>
+<h3>Welcome to my page! </br> I'm Suman, Computer Science & Engineering Student From INDIA  </h3>
 
 
 ###
